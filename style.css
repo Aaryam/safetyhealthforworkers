@@ -48,3 +48,7 @@ pre
   .title-spacer {
     margin-top: 30%;
   }
+
+  li {
+      font-weight: bold;
+  }
